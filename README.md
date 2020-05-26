@@ -9,5 +9,5 @@ React Next.js 로 개발한 소스중 일부입니다. Page , Component 참고�
 
 메인페이지 스크린샷
 
-![drt-system](./메인첫화면.png)
+![drt-system](./screenshot/메인첫화면.png)
 
