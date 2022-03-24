@@ -5,6 +5,15 @@ DRT (Demand Responsive Transport) 수요응답형교통 시스템
 
 React Next.js 로 개발한 소스중 일부입니다. Page , Component 참고용으로 봐주시면 감사하겠습니다.
 
+
+초기 버전 테스트
+
+https://duruta-nextjs-k0sc8tuu6.now.sh/
+
+디자인 변경 버전 테스트   ( DB, 지도 연동이 없고 테스트용이니 참고로 봐주세요 :)
+
+https://drt-nextjs.vercel.app/
+
 # Screenshot
 
 로그인화면
